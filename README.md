@@ -58,13 +58,6 @@ This is a small personal project where I worked on analyzing Amazon sales data. 
 
 ---
 
-## 🖼 Dashboard Screenshots
-
-![Dashboard1](29b2251e-31e0-4715-b250-4d4ed5aa9532.png)  
-![Dashboard2](83f9a892-b009-4e5d-a0cc-2914760080e4.png)
-
----
-
 ## ✍️ Personal Note
 
 I did this project to practice data cleaning and dashboard making. It helped me understand how to work with messy data and convert it into useful visuals.  
